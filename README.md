@@ -204,6 +204,10 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
   * [Magento 2 Cron Schedule](https://magefan.com/magento-2-cron-schedule)
   * [Magento 2 CLI Extension](https://magefan.com/magento2-cli-extension)
   * [Magento 2 Conflict Detector Extension](https://magefan.com/magento2-conflict-detector)
+  
+  ### Magento 2 Point of Sale
+
+  * [Magento 2 POS System](https://magefan.com/magento-pos-system)
 
   ### Magento 2 Theme
 
