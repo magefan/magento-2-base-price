@@ -10,7 +10,7 @@
 
 Comply with unit prices regulations in your country and offer the best shopping experience in your store with Magefan.
 
-<a href="https://magefan.com/magento-2-base-price"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-base-pricem#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+<a href="https://magefan.com/magento-2-base-price"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-base-price#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Requirements
   * Magento Community 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
