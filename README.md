@@ -6,6 +6,8 @@
 
 Comply with unit price regulations in your country and offer the best shopping experience in your store with Magefan.
 
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
+
 <img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
 <a href="https://magefan.com/magento-2-base-price"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
